@@ -21,3 +21,8 @@ h4{
     color: white;
     position: sticky;
 }
+canvas{
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px red;
+    border-radius: 10px;
+}
